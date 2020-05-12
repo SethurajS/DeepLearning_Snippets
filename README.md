@@ -1,1 +1,1 @@
-# DeepLearning_Snippets
+# Review Prediction using Recurrent Neural Network.
